@@ -1,0 +1,9 @@
+.tech-list {
+    font-family: Montserrat;
+    padding-top: 113px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}
